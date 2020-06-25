@@ -1,5 +1,7 @@
-# HW1
-Homework for week 1
+# Coding Refactor
+This is the homework for week one. The objectives are to make sure that all links in the website function properly and edit the coding with proper HTML semantics. The purpose is to organize the code and make it easier to read.
+
+With practice, it will become more natural to write code using semantic HTML and keep the code blocks organized.
 
 Replaced div tags with header, footer, section, or article tags
 
